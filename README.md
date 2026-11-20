@@ -1,5 +1,7 @@
 # UAE VAT Registration Skill
 
+> By [An Nayal](https://annayal.com) · used at [Agniverse](https://agniverse.co) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
+
 Register your UAE company for VAT on the FTA's EmaraTax portal with an AI agent (Claude Code or OpenAI Codex, with browser control) doing the form for you. You bring the invoices and your login. The agent works out your monthly figures, drafts the turnover declaration, fills all 9 steps, and stops before the declaration so you review and submit.
 
 I built this after registering my own Dubai free zone company for VAT. It took one evening and cost nothing. The same filing usually costs AED 1,500 to 2,500 through an agent or your free zone. This is that evening, packaged, plus every snag I hit so you do not have to.
