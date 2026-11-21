@@ -1,6 +1,6 @@
 # UAE VAT Registration Skill
 
-> By [An Nayal](https://annayal.com) · used at [Agniverse](https://agniverse.co) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
+> Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
 
 Register your UAE company for VAT on the FTA's EmaraTax portal with an AI agent (Claude Code or OpenAI Codex, with browser control) doing the form for you. You bring the invoices and your login. The agent works out your monthly figures, drafts the turnover declaration, fills all 9 steps, and stops before the declaration so you review and submit.
 
@@ -80,3 +80,5 @@ You use this skill at your own risk. The author is not liable for any outcome, i
 ## Licence
 
 MIT. Use it, fork it, share it. If it saved you the fee, tell someone.
+
+Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com)
